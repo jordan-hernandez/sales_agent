@@ -1,0 +1,15 @@
+nombre,descripcion,precio,categoria,disponible
+Empanadas de Pollo,Deliciosas empanadas caseras rellenas de pollo y verduras,8000,entradas,true
+Patacones con Guacamole,Patacones crujientes acompañados de guacamole fresco,12000,entradas,true
+Arepa de Queso,Arepa tradicional rellena de queso campesino,6000,entradas,true
+Bandeja Paisa,Bandeja tradicional con frijoles arroz carne molida chorizo morcilla chicharrón arepa y aguacate,28000,platos principales,true
+Sancocho de Gallina,Sancocho tradicional con gallina criolla y vegetales frescos,25000,platos principales,true
+Pescado a la Plancha,Filete de pescado fresco a la plancha con arroz con coco y patacones,32000,platos principales,true
+Pollo Asado,Pollo entero asado con papas criollas y ensalada,24000,platos principales,true
+Limonada de Coco,Refrescante limonada con coco rallado,8000,bebidas,true
+Agua de Panela con Limón,Bebida tradicional colombiana,5000,bebidas,true
+Jugo Natural,Jugos de frutas frescas (mango mora lulo maracuyá),9000,bebidas,true
+Gaseosa,Coca Cola Sprite Fanta,4000,bebidas,true
+Tres Leches,Torta tres leches casera,8000,postres,true
+Flan de Coco,Flan tradicional con sabor a coco,7000,postres,true
+Brownie con Helado,Brownie de chocolate con helado de vainilla,10000,postres,true

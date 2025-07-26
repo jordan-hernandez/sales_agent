@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(alembic revision:*)",
+      "Bash(ping:*)",
+      "Bash(python test_connection.py:*)",
+      "Bash(pip install:*)",
+      "Bash(python test_supabase_connection.py:*)",
+      "Bash(nslookup:*)",
+      "Bash(python test:*)",
+      "Bash(alembic upgrade:*)",
+      "Bash(copy \".env.example\" \".env\")",
+      "Bash(cp:*)",
+      "Bash(alembic stamp:*)",
+      "Bash(python:*)",
+      "Bash(copy:*)"
+    ],
+    "deny": []
+  }
+}
